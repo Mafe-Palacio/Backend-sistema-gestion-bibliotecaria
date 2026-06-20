@@ -62,7 +62,8 @@ async def startup_event():
     print("Sistema listo para usar.")
     """Link del backend local"""
     print("Documentación disponible en: http://localhost:8000/docs")
-    """Link del backend local"""
+    """Link del backend web"""
+    print("Documentación disponible en: https://gestion-bibliotecaria-backend.onrender.com")
 
 
 @app.get("/", tags=["raíz"])
