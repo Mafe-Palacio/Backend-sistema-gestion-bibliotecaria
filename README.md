@@ -2,6 +2,14 @@
 
 API REST para la gestión de una red de bibliotecas, desarrollada en **Python** con **FastAPI** y **SQLAlchemy**. Permite administrar sedes, bibliotecas, clientes, materiales bibliográficos, préstamos, reservas y sanciones.
 
+## 🌐 Aplicación publicada
+
+> **URL:** [https://gestion-bibliotecaria-backend.onrender.com](https://gestion-bibliotecaria-backend.onrender.com)
+
+> **Swagger UI:** [https://gestion-bibliotecaria-backend.onrender.com/docs](https://gestion-bibliotecaria-backend.onrender.com/docs)
+
+![Swagger UI](swagger_gestion_bibliotecaria.jpeg)
+
 ---
 
 ## Tecnologías
