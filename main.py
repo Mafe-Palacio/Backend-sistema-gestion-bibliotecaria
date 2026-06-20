@@ -60,7 +60,9 @@ async def startup_event():
     print("Configurando base de datos...")
     create_tables()
     print("Sistema listo para usar.")
+    """Link del backend local"""
     print("Documentación disponible en: http://localhost:8000/docs")
+    """Link del backend local"""
 
 
 @app.get("/", tags=["raíz"])
